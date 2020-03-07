@@ -7,7 +7,7 @@ Code blocks
 * for Markdown we can use indents
 * for reST we can use `::` 
 
-**Good:** Combination of both::
+**Good:** Combination of both (notice the double-colon at end of this line)::
 
     <f:if condition="{something} == 'other'">
    
